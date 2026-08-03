@@ -1,8 +1,8 @@
-![logo](png link)
+![logo](https://github.com/null-minds/null-minds/blob/main/91e47b29-8ba0-49cd-a943-01a910e8199d-cover.png)
 <h1 align="center">Hi 👋, I'm Anup Kumar Gond</h1>
 <h3 align="center">Clean Code. Scalable Design. Measurable Impact.</h3>
 
-<img align="right" alt="coding" width="400" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif">
+<img align="right" alt="coding" width="400" src="https://nationalcioreview.com/articles-insights/technology/artificial-intelligence/vibe-coding-moves-into-the-mainstream/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=null-minds&label=Profile%20views&color=0e75b6&style=flat" alt="null-minds" /> </p>
 
